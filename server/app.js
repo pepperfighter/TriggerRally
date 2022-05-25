@@ -331,7 +331,7 @@ const qs = require('querystring');
 
 const availablePacks = {
   ignition: {
-    cost: '750',
+    cost: '0',
     currency: 'credits',
     // name: 'Trigger Rally: Icarus Ignition'
     // description: 'A new car for Trigger Rally.'
@@ -339,7 +339,7 @@ const availablePacks = {
     products: [ 'ignition' ]
   },
   mayhem: {
-    cost: '400',
+    cost: '0',
     currency: 'credits',
     // name: 'Trigger Rally: Mayhem Monster Truck'
     // description: 'The Mayhem Monster Truck for Trigger Rally.'
