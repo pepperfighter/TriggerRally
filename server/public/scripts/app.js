@@ -84,7 +84,7 @@ define([
       return {
         antialias: true,
         audio: true,
-        car: 'ArbusuG',
+        car: 'Mayhem',
         challenge: 'world',  // none, clock, world  # TODO: Add an experiment for this!
         musicplay: false,
         musicvolume: 0.5,
